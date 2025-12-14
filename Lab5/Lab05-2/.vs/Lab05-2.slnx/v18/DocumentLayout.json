@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5EF6CE-B003-45B4-B02B-199B0881870A}|..\\Lab05-3\\Lab05-3.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-3\\Lab05-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB81FF9-4519-4533-B993-EC7B2B17F13B}|Lab05-2.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-2\\Lab05-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AB81FF9-4519-4533-B993-EC7B2B17F13B}|Lab05-2.vcxproj|solutionrelative:Lab05-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab05-3.cpp",
+              "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-3\\Lab05-3.cpp",
+              "RelativeDocumentMoniker": "..\\Lab05-3\\Lab05-3.cpp",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-3\\Lab05-3.cpp",
+              "RelativeToolTip": "..\\Lab05-3\\Lab05-3.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:42:33.21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab05-2.cpp",
+              "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-2\\Lab05-2.cpp",
+              "RelativeDocumentMoniker": "Lab05-2.cpp",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-2\\Lab05-2.cpp",
+              "RelativeToolTip": "Lab05-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:52:31.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

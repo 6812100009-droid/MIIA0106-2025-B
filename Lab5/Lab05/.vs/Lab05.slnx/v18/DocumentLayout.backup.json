@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{70B30C42-4F75-4476-BC65-546BB15BB113}|Lab05.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05\\Lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{70B30C42-4F75-4476-BC65-546BB15BB113}|Lab05.vcxproj|solutionrelative:Lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534CA839-559C-4788-8449-F5659D1E9435}|..\\Lab05-2\\Lab05-2.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-2\\Lab05-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab05-2.cpp",
+              "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-2\\Lab05-2.cpp",
+              "RelativeDocumentMoniker": "..\\Lab05-2\\Lab05-2.cpp",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05-2\\Lab05-2.cpp",
+              "RelativeToolTip": "..\\Lab05-2\\Lab05-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:05:01.955Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab05.cpp",
               "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05\\Lab05.cpp",
               "RelativeDocumentMoniker": "Lab05.cpp",
-              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05\\Lab05.cpp",
-              "RelativeToolTip": "Lab05.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab5\\Lab05\\Lab05.cpp*",
+              "RelativeToolTip": "Lab05.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-14T08:33:57.882Z",
               "EditorCaption": ""
