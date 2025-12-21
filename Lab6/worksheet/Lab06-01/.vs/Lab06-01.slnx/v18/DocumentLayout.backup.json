@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B1A167-8D8E-4EB8-9B2E-F419160D54DB}|..\\Lab06-4\\Lab06-4.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-4\\Lab06-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7F72A-2349-42D3-8CA7-1F25D09B5CB2}|..\\Lab06-3\\Lab06-3.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-3\\Lab06-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACA1B59-8DA5-4C07-92E6-E548D9564E76}|..\\Lab06-02\\Lab06-02.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-02\\Lab06-02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F466E2-0726-43A7-9274-588344998B55}|..\\Lab06-1\\Lab06-1.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-1\\Lab06-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB5177D-2DA4-4C06-84FE-5C7344463EBF}|ConsoleApplication1.vcxproj|D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-01\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EB5177D-2DA4-4C06-84FE-5C7344463EBF}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab06-4.cpp",
+              "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-4\\Lab06-4.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06-4\\Lab06-4.cpp",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-4\\Lab06-4.cpp",
+              "RelativeToolTip": "..\\Lab06-4\\Lab06-4.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T14:00:00.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab06-3.cpp",
+              "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-3\\Lab06-3.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06-3\\Lab06-3.cpp",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-3\\Lab06-3.cpp",
+              "RelativeToolTip": "..\\Lab06-3\\Lab06-3.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T13:38:21.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab06-02.cpp",
+              "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-02\\Lab06-02.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06-02\\Lab06-02.cpp",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-02\\Lab06-02.cpp",
+              "RelativeToolTip": "..\\Lab06-02\\Lab06-02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:04:34.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab06-1.cpp",
+              "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-1\\Lab06-1.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06-1\\Lab06-1.cpp",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-1\\Lab06-1.cpp",
+              "RelativeToolTip": "..\\Lab06-1\\Lab06-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T13:15:54.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-01\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
+              "ToolTip": "D:\\Fork\\MIIA0106-2025-B\\Lab6\\worksheet\\Lab06-01\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T08:49:05.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

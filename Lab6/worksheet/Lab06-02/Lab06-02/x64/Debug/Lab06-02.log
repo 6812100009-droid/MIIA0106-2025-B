@@ -1,0 +1,6 @@
+﻿  Lab06-02.cpp
+D:\Fork\MIIA0106-2025-B\Lab6\worksheet\Lab06-02\Lab06-02.cpp(48,5): error C2084: function 'int main(void)' already has a body
+      D:\Fork\MIIA0106-2025-B\Lab6\worksheet\Lab06-02\Lab06-02.cpp(22,5):
+      see previous definition of 'main'
+  
+D:\Fork\MIIA0106-2025-B\Lab6\worksheet\Lab06-02\Lab06-02.cpp(50,1): error C1075: '{': no matching token found
